@@ -132,7 +132,7 @@ ALTER VIEW  c_info RENAME TO customer_info;
 
 
 
-------------------------------------- VIEW -------------------------------------
+------------------------- Impoting and exporting Data -------------------------
 
 --	Before running query connect to Learning Detabase
 CREATE TABLE test.simple_table(
@@ -142,6 +142,3 @@ CREATE TABLE test.simple_table(
 );
 
 SELECT * FROM test.simple_table;
-
-
-
